@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Prabhu</h1>
 <h3 align="center">a layman aspiring to be a pro</h3>
 
-- 🔭 I’m currently working on [V-NoteBook](https://github.com/vaxad/vYou-client)
+- 🔭 I’m currently working on [Moment0](https://github.com/vaxad/moment0_server) and [Festivity](https://github.com/vaxad/festivity_client)
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
