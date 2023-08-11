@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
+- 🌐 Visit my [Portfolio](https://portfolio-vaxad.netlify.app/) to know more about me!
+
 - 👯 I’m collaborating on a HealthCare Project [Swasthyà]([private])
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaxad?tab=repositories](https://github.com/vaxad?tab=repositories)
