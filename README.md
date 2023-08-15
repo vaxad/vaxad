@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varad Prabhu</h1>
 <h3 align="center">a layman aspiring to be a pro</h3>
 
-- 🔭 I’m currently working on [Moment0](https://github.com/vaxad/moment0_server) and [Festivity](https://github.com/vaxad/festivity_client)
+- 🔭 I’m currently working on [vBlog](https://vblog-vaxad.vercel.app/) and [BistroBites]([private])
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
 - 🌐 Visit my [Portfolio](https://portfolio-vaxad.netlify.app/) to know more about me!
 
-- 👯 I’m collaborating on a HealthCare Project [Swasthyà]([private])
+- 👯 I’m collaborating on a HealthCare Project [Swasthyà](https://youtube.com/shorts/dIS6E3EB69U?feature=share)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaxad?tab=repositories](https://github.com/vaxad?tab=repositories)
+- 👨‍💻 All of my projects are available at my [Git Repositories](https://github.com/vaxad?tab=repositories)
 
 - 📫 How to reach me **varadprabhu111@gmail.com**
 
