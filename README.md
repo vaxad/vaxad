@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varad Prabhu</h1>
 <h3 align="center">a layman aspiring to be a pro</h3>
 
-- 🔭 I’m currently working on [vBlog](https://vblog-vaxad.vercel.app/) and [BistroBites]([private])
+- 🔭 I’m currently working on [vShoot](https://github.com/vaxad/vShoot) and [LingoSafari]((https://lingo-safari.vercel.app/))
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
 - 🌐 Visit my [Portfolio](https://portfolio-vaxad.netlify.app/) to know more about me!
 
-- 👯 I’m collaborating on a HealthCare Project [Swasthyà](https://youtube.com/shorts/dIS6E3EB69U?feature=share)
+- 👯 I’m collaborating on a HealthTech Project [Vrushaa](https://github.com/vaxad/vrukshaa)
 
 - 👨‍💻 All of my projects are available at my [Git Repositories](https://github.com/vaxad?tab=repositories)
 
