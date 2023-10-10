@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
-- 🌐 Visit my [Portfolio](https://portfolio-vaxad.netlify.app/) to know more about me!
+- 🌐 Visit my [Portfolio](https://vaxad-portfolio.vercel.app/) to know more about me!
 
 - 👯 I’m collaborating on a HealthTech Project [Vrushaa](https://github.com/vaxad/vrukshaa)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **varadprabhu111@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/varad-prabhu-622621270](https://www.linkedin.com/in/varad-prabhu-622621270)
+- 📄 Know about my experiences [https://www.linkedin.com/in/varad-prabhu-622621270](https://www.linkedin.com/in/varadprabhu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
