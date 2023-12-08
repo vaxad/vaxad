@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Prabhu</h1>
 <h3 align="center">a layman aspiring to be a pro</h3>
 
-- 🔭 I’m currently working on [vShoot](https://github.com/vaxad/vShoot) and [LingoSafari](https://lingo-safari.vercel.app/)
+- 🔭 I’m currently working on [vShoot](https://github.com/vaxad/vShoot)
 
 - 🌱 I’m currently learning **React.js, React-Native, Node.js, MongoDB**
 
