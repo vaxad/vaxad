@@ -101,9 +101,9 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/varadprabhu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://unstop.com/u/varadprabhu/" target="blank"><img align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://devfolio.co/@varadprabhu/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/varadprabhu/" target="blank"><img style="border-radius: 100%" align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://unstop.com/u/varadprabhu/" target="blank"><img style="border-radius: 100%" align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://devfolio.co/@varadprabhu/" target="blank"><img style="border-radius: 100%" align="center" src="https://avatars.githubusercontent.com/u/38809367" alt="discord" height="50" width="50" /></a>
   
 </p>
 
