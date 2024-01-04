@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Varad</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm [Varad](https://vaxad.vercel.app)</h1></summary>
   </ul>
 </div>
 
@@ -31,6 +31,8 @@
 - 🌱 I’m currently learning **to build completely type-safe and scalable web applications**
 
 - ☁️ I have a keen interest in problem-solving. So, I'm learning **DSA**
+
+- 📖 You can know more about me by visiting my [**Portfolio**](https://vaxad.vercel.app)
 
 - 📝 I regularly post updates on [LinkedIn](https://www.linkedin.com/in/varadprabhu/)
 
