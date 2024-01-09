@@ -113,7 +113,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=vaxad&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaxad&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
