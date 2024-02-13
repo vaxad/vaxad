@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm <span><a href="https://vaxad.vercel.app/" target="_blank">Varad<a></span></h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm <span><a href="https://vaxad.xyz/" target="_blank">Varad<a></span></h1></summary>
   </ul>
 </div>
 
@@ -32,7 +32,7 @@
 
 - ☁️ I have a keen interest in problem-solving. So, I'm learning **DSA**
 
-- 📖 You can know more about me by visiting my [**Portfolio**](https://vaxad.vercel.app)
+- 📖 You can know more about me by visiting my [**Portfolio**](https://vaxad.xyz)
 
 - 📝 I regularly post updates on [LinkedIn](https://www.linkedin.com/in/varadprabhu/)
 
