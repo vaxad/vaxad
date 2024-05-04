@@ -54,12 +54,12 @@
   
   <img  align="center" src="https://github-readme-stats-vaxad.vercel.app/api?username=vaxad&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-vaxad.vercel.app/?user=vaxad&theme=dark" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-rnvd36uwl-vaxads-projects.vercel.app/?user=vaxad&theme=dark" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-vaxad.vercel.app/api/top-langs/?username=vaxad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-dusky-ten-23.vercel.app/api/top-langs/?username=vaxad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
