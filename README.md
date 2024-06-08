@@ -58,9 +58,7 @@
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats-dusky-ten-23.vercel.app/api/top-langs/?username=vaxad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img src="https://github-readme-streak-stats-git-dependabo-f6f44f-vaxads-projects.vercel.app?user=vaxad&theme=highcontrast" alt="GitHub Streak" />
   </td>
 </tr>
 </table>
