@@ -54,7 +54,7 @@
   
   <img  align="center" src="https://github-readme-stats-dusky-ten-23.vercel.app/api/top-langs/?username=vaxad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-rnvd36uwl-vaxads-projects.vercel.app/?user=vaxad&theme=dark" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaxad&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
